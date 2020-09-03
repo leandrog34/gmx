@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="My Streaming Server" generator-info-url="https://koditvepg.com/epgs/">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="My Streaming Server" generator-info-url="https://epg.koditvepg.com/">
 
 <channel id="24.horas.chile.mx" icon="https://logo.koditvepg.com/MX/24.horas.chile.mx.png">24 Horas (Chile) MX</channel>
 <channel id="a+.mx" icon="https://logo.koditvepg.com/MX/a+.mx.png">A+ MX</channel>
