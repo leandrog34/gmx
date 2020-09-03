@@ -260,14 +260,14 @@
 <channel id="hbo.latin.america.east.mx" icon="https://logo.koditvepg.com/MX/hbo.latin.america.east.mx.png">HBO Latin America HDTV (East) MX</channel>
 <channel id="hbo.latin.america.west.mx" icon="https://logo.koditvepg.com/MX/hbo.latin.america.west.mx.png">HBO Latin America HDTV (West) MX</channel>
 <channel id="hbo.latino.west.mx" icon="https://logo.koditvepg.com/MX/hbo.latino.west.mx.png">HBO Latino (West) MX</channel>
-<channel id="hbo.mundi.mexico.mx" icon="https://logo.koditvepg.com/MX/hbo.mundi.mexico.mx.png">HBO MUNDI (Mexico) MX</channel>
-<channel id="hbo.mundi.mx" icon="https://logo.koditvepg.com/MX/hbo.mundi.mx.png">HBO Mundi MX</channel>
+<channel id="hbo.mundi.mexico.mx" icon="https://logo.koditvepg.com/MX/hbo.mundi.mexico.mx.png">HBO MUNDI</channel>
+<channel id="hbo.mundi.mx" icon="https://logo.koditvepg.com/MX/hbo.mundi.mx.png">HBO Mundi</channel>
 <channel id="hbo.mx" icon="https://logo.koditvepg.com/MX/hbo.mx.png">HBO MX</channel>
 <channel id="hbo.plus.mexico.mx" icon="https://logo.koditvepg.com/MX/hbo.plus.mexico.mx.png">HBO Plus México MX</channel>
 <channel id="hbo.pop.mexico.mx" icon="https://logo.koditvepg.com/MX/hbo.pop.mexico.mx.png">HBO POP HDTV (Mexico) MX</channel>
 <channel id="hbo.signature.panamerican.mx" icon="https://logo.koditvepg.com/MX/hbo.signature.panamerican.mx.png">HBO Signature (Panamerican) MX</channel>
 <channel id="hbo.xtreme.mexico.mx" icon="https://logo.koditvepg.com/MX/hbo.xtreme.mexico.mx.png">HBO Xtreme HDTV (Mexico) MX</channel>
-<channel id="hbo.xtreme.panamericano.mx" icon="https://logo.koditvepg.com/MX/hbo.xtreme.panamericano.mx.png">CINE|HBO Xtreme</channel>
+<channel id="hbo.xtreme.panamericano.mx" icon="https://logo.koditvepg.com/MX/hbo.xtreme.panamericano.mx.png">HBO Xtreme</channel>
 <channel id="heroes.icons.national.mx" icon="https://logo.koditvepg.com/MX/heroes.icons.national.mx.png">Heroes & Icons (National Feed) MX</channel>
 <channel id="hgtv.latin.america.panregional.mx" icon="https://logo.koditvepg.com/MX/hgtv.latin.america.panregional.mx.png">HGTV Latin America HDTV (Panregional) MX</channel>
 <channel id="hgtv.latin.america.sdtv.panregional.mx" icon="https://logo.koditvepg.com/MX/hgtv.latin.america.sdtv.panregional.mx.png">HGTV Latin America SDTV (Panregional) MX</channel>
